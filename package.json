@@ -1,0 +1,27 @@
+{
+  "name": "wundergram",
+  "version": "1.0.0",
+  "description": "Telegram Interface for Wunderlist",
+  "main": "index.js",
+  "dependencies": {
+    "telegram-node-bot": "^3.0.12"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sealstack/wundergram.git"
+  },
+  "keywords": [
+    "wunderlist",
+    "telegram"
+  ],
+  "author": "Ruslan Yuldashev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sealstack/wundergram/issues"
+  },
+  "homepage": "https://github.com/sealstack/wundergram#readme"
+}
