@@ -1,2 +1,2 @@
 # wundergram
-Telegram Interface to Wunderlist
+Telegram Interface for Wunderlist
